@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849238990366",
+    "firebase_url": "https://kahveni-sec-mobil-app.firebaseio.com",
+    "project_id": "kahveni-sec-mobil-app",
+    "storage_bucket": "kahveni-sec-mobil-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849238990366:android:e3daea8326173c65f3980f",
+        "android_client_info": {
+          "package_name": "com.example.kahveni_sec_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849238990366-mmtdm4u69ru5i0k6o29v38vp72iad6jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hBrOBH5Yyu15dHP0BHD6uu0DHS1vO0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849238990366-mmtdm4u69ru5i0k6o29v38vp72iad6jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
